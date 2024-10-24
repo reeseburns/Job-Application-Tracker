@@ -52,5 +52,4 @@ This is information like the server name, server identifier, the secret key, and
         ```
         flask run
         ```
-4. Open the web app
-    * Your terminal will output a link, open the link in your web browser to run the app
+4. Open the web app: Your terminal will output a link, open the link in your web browser to run the app
