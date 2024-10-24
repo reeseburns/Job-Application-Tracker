@@ -4,15 +4,11 @@ Our vision is to create a simple and easy to use job application tracker, that a
 
 ## Instructions
 
-### Step 1: Install Python and the Repository
-1. Python
+### Step 1: Download Files
+1. Zip File
+    * Download all files from this repository
+2. Python
     * Download and install python and pip
-2. Clone repository
-    * Navigate to the desired directory/file location for the webapp
-    * Clone the GitHub repository 
-        ```
-        git clone https://github.com/software-students-fall2024/2-web-app-rbf.git
-        ```
 
 ### Step 2: Setting up the Virtual Environment:
 1.  Create a new virtual environment
