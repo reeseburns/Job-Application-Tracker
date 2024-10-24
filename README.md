@@ -4,18 +4,16 @@ Our vision is to create a simple and easy to use job application tracker, that a
 
 ## Instructions
 
-### Step 1: Download Files
-1. Zip File
-    * Download all files from this repository
-2. Python
-    * Download and install python and pip
+### Step 1: Download Repository Files and Python
+1. Zip File: Download all files from this repository into a .zip document onto your device
+2. Python: Install python and pip onto your code editor of choice
 
-### Step 2: Setting up the Virtual Environment:
-1.  Create a new virtual environment
+### Step 2: Set Up the Virtual Environment:
+1.  Create a new virtual environment on your code editor terminal
     ```
     python -m venv venv
     ```
-2. Activate the Environment
+2. Activate the environment
     * On Mac OS
         ```
         source venv/bin/activate
@@ -33,9 +31,9 @@ Our vision is to create a simple and easy to use job application tracker, that a
 
 ### Step 4. Set Up The Environment File
 * The environment file contains sensitive information that is needed to run the web app.
-This is information like the server name, server identifier, the secret key, and other environment variables. For this project, the environemnt file was sent to the graders and admins.
+This is information like the server name, server identifier, the secret key, and other environment variables.
 
-1. Download the environment file
+1. Download the environment file .env
 2. Move the .env file to the main directory of the web app
 
 ### Step 5. Run The Web App
